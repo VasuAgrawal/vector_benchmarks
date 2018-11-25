@@ -1,3 +1,4 @@
+```
 --------------------------------------------------------------------------
 Benchmark                                   Time           CPU Iterations
 --------------------------------------------------------------------------
@@ -11,3 +12,4 @@ Fixture/insert_with_reserve            258743 ns     258730 ns       2686
 Fixture/insert_from_vector             519594 ns     519591 ns       1062
 Fixture/back_inserter                12063501 ns   12062643 ns         59
 Fixture/back_inserter_with_reserve    2696150 ns    2695984 ns        258
+```
